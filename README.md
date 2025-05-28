@@ -26,6 +26,9 @@ The model is trained and saved in ` ./offline/model/`
 - Flag_ADV = True we evaluate the adversarial noises
 - Flag_OOD = True we evaluate the OOD noises
 
+The current implementation is based on two classical control and six Atari games. The code for carla will be updated shortly...
+
+
 ## Part 2: Online Detection (to be updated) 
 
 
