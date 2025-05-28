@@ -1,4 +1,4 @@
-# Implementation for "A Distance-based Anomaly Detection Framework for Deep Reinforcement Learning"
+# Implementation for "A Distance-based Anomaly Detection Framework for Deep Reinforcement Learning" (TMLR 2024)
 
 This repository contains the Python implementation of the paper "[A Distance-based Anomaly Detection Framework for Deep Reinforcement Learning](https://openreview.net/forum?id=TNKhDBV6PA)" (**TMLR 2024**). We are now constantly updating our code.....
 
